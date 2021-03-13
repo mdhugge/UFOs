@@ -10,7 +10,9 @@ To the left of the table on UFO sightings is a section that allows users to appl
 Users can refine their search based on Date, City, State, Country and Shape.
 
 ### Using Search Criteria
-The user can enter a value into each of the input boxes and than press ENTER in order to filter the table.
+The user can enter a value into each of the input boxes and than press ENTER in order to apply the filter to the table.
+
+To remove a filter the user has to clear the input box and press ENTER
 
 #### Filtering for Date
 The date should be entered in the format of Month/Day/Year (e.g. January 13, 2010 would be entered as 1/13/2010).
