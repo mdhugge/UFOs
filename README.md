@@ -49,14 +49,14 @@ Applying a shape filter of circle would return the following result:
 
 ![Shape_Filter](https://github.com/mdhugge/UFOs/blob/main/static/images/Shape_Filter.png)
 
-### Filter Value Does Not Exists
+### Filter Value Does Not Exist
 If the filter value entered by the user does not exist an empty table will be returned. 
 
 Applying a shape filter of diamond would return the following result:
 
 ![Diamond_Filter](https://github.com/mdhugge/UFOs/blob/main/static/images/Diamond_Filter.png)
 
-### Multiple Filters
+### Applying Multiple Filters
 Users can also enter values for multiple categories.
 
 Applying the following filters: Date = 1/13/20, City = el cajon, State = ca, Country = us, Shape = triangle would return the following result:
